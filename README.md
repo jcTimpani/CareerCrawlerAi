@@ -13,11 +13,6 @@ CareerCrawl AI is a web-based platform that crawls technology company websites t
 - Chandan Shah
 - John Timpani
 
-## Sprint 0 Objectives
-- Understand the project domain and scope
-- Identify functional and non-functional requirements
-- Decide technology stack and tools
-- Set up GitHub and Trello project workflows
 
 ## Course Information
 - Instructor: Diana Rabah
